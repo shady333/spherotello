@@ -6,3 +6,6 @@ Main idea:
 2. Sent required command to tello according to input data from the ball
 
 Main project language - NodeJS
+
+Some info:
+1. Working sample for controll SpheroMINI ball - https://github.com/igbopie/spherov2.js
